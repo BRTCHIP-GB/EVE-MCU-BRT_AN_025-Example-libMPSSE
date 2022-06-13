@@ -3,7 +3,9 @@ Windows
 
 Important Information about Windows builds using Visual Studio and Visual Studio Code.
 
-To compile this you will have to download the libMPSSE library for Windows. It is available from the FTDI website.
+To compile this you will have to download the libMPSSE library for Windows. Recommended version is v1.0.2 or later. It is available from the FTDI website:
+
+https://ftdichip.com/software-examples/mpsse-projects/
 
 Download the libmpsse-windows-x.x.x.zip	file to this directory and unzip it.
 
